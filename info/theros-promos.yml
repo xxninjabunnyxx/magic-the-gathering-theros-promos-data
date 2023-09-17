@@ -1,0 +1,18 @@
+---
+object: set
+id: ae24da1d-4b3e-4eff-8860-0d69b2754175
+code: pths
+name: Theros Promos
+uri: https://api.scryfall.com/sets/ae24da1d-4b3e-4eff-8860-0d69b2754175
+scryfall_uri: https://scryfall.com/sets/pths
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apths&unique=prints
+released_at: '2013-09-21'
+set_type: promo
+card_count: 10
+parent_set_code: ths
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/ths.svg?1694404800
